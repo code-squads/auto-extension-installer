@@ -1,0 +1,13 @@
+,
+		"viewsContainers": {
+		  "activitybar": [
+			{
+			  "id": "auto-installer",
+			  "title": "Auto extension installer",
+			  "icon": "resources/icons/AE.svg"
+			}
+		  ]
+		}
+
+
+        
